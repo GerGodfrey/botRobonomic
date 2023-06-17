@@ -1,4 +1,5 @@
 fastapi
+py_bip39_bindings==0.1.11
 robonomics-interface 
 IPFS-Toolkit
 substrateinterface
