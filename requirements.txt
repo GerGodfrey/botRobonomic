@@ -1,5 +1,5 @@
 fastapi
-robonomics-interface  
+robonomics-interface 
 IPFS-Toolkit
 substrateinterface
 uvicorn
