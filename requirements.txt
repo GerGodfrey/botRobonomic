@@ -1,0 +1,6 @@
+fastapi
+robonomics_interface 
+IPFS-Toolkit
+substrateinterface
+
+# python3 -m pip install -r requirements.txt
