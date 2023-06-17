@@ -1,5 +1,5 @@
 fastapi
-robonomics-interface == 1.6.1   
+robonomics-interface  
 IPFS-Toolkit
 substrateinterface
 uvicorn
