@@ -2,5 +2,5 @@ fastapi
 robonomics_interface 
 IPFS-Toolkit
 substrateinterface
-
+uvicorn
 # python3 -m pip install -r requirements.txt
